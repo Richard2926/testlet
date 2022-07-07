@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "372865910468",
+    "firebase_url": "https://testlet-release.firebaseio.com",
+    "project_id": "testlet-release",
+    "storage_bucket": "testlet-release.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372865910468:android:d1a30f7c23e9645a52ab91",
+        "android_client_info": {
+          "package_name": "com.release.testlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372865910468-75n59hd5i6gunkngvpklh5qa4g59nfks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.release.testlet",
+            "certificate_hash": "471a954248fb1b954750620f1ddf060b90057180"
+          }
+        },
+        {
+          "client_id": "372865910468-1kktpq1ovp25o82emat18hl1vb5m0alu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.release.testlet",
+            "certificate_hash": "130e71b852505286075bdebb278d189fd8139152"
+          }
+        },
+        {
+          "client_id": "372865910468-c2b43famif3oftpuqu5pp2qj2cra1lhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9ei0MqB9BmgTVLytuNQJWOglRhklPjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372865910468-c2b43famif3oftpuqu5pp2qj2cra1lhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
